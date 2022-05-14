@@ -32,6 +32,7 @@ class ViewController: UIViewController {
             operationString = "+"
         case 15:
             operationString = "."
+      
         default:
             print("there is mistake")
         }
